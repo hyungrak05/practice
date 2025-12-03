@@ -4,3 +4,11 @@ asdfasdf
 업데이트
 
 git remote add origin //
+
+git push origin main
+
+개발자 티츠 ...
+
+개발자 목록
+1. 고양이
+2. 문어
