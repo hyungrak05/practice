@@ -2,3 +2,5 @@ asdfasdf
 asdfasdf
 
 업데이트
+
+git remote add origin //
